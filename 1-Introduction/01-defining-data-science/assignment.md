@@ -20,9 +20,9 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Education | Assessing students' engagement and enthusiasm. | Assignment submissions. Attendance records. Grades. | Semi or unstructures (assignments) - NoSQL or file-system. Grades & attendance - structured - table. | Identify students that aren't engaged so we can investigate. |
+| Vaccination | In which areas are people not being vaccinated quickly enough? | Population of counties/districts. Numbers of vaccinations in each geographical area (with dates) | Structured table | Charts and maps to show which areas are lagging behind. Focus resources on them. |
+| Productivity | Am I engaging with enough colleagues, often enough? | Dates, lengths and attendees of meetings; Emails & chat messages sent & received vs recipients. Group posts & comments. Locations of colleagues. | Semi-structured data. NoSQL? | Network diagram to see connections and activity showing gaps in my "coverage". Analysis of topics indicating what my effort is being expended on and decide whether the balance is appropriate. |
 
 ## Rubric
 
